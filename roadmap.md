@@ -1,0 +1,4 @@
+- [ ] Build solar-energy public website with responsive navigation, sections, forms, and footer
+- [ ] Add localStorage-backed mock data and editable business settings
+- [ ] Add demo admin login, protected admin pages, CRUD-style management, and leads workflow
+- [ ] Verify routes, responsive rendering, interactions, and build diagnostics
